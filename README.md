@@ -6,12 +6,12 @@ I ❤️ JavaScript, React and everything about web developement. Having hands o
 
 Below are the Few of My Favourite works on my github profile.
 
-1. Hotstar-Disney-Plus Home page Clone using ReactJS.
+1. Hotstar-Disney-Plus Home page Clone using ReactJS. <br />
 https://github.com/praveenmjoshi/react_Hotstar_Disney_Plus_Clone
 
-2. Tesla app clone using ReactJS.
+2. Tesla app clone using ReactJS. <br />
 github.com/praveenmjoshi/react_Tesla_Clone
 
-3. Machine Learning Projects
+3. Machine Learning Projects. <br />
 github.com/praveenmjoshi/Machine-learning
 
