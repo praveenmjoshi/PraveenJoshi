@@ -10,8 +10,8 @@ Below are the Few of My Favourite works on my github profile.
 https://github.com/praveenmjoshi/react_Hotstar_Disney_Plus_Clone
 
 2. Tesla app clone using ReactJS. <br />
-github.com/praveenmjoshi/react_Tesla_Clone
+https://github.com/praveenmjoshi/react_Tesla_Clone
 
 3. Machine Learning Projects. <br />
-github.com/praveenmjoshi/Machine-learning
+https://github.com/praveenmjoshi/Machine-learning
 
