@@ -18,3 +18,12 @@ https://github.com/praveenmjoshi/ReactJS-Favourite-Clones/tree/main/Tesla%20Clon
 4. Machine Learning Projects. <br />
 https://github.com/praveenmjoshi/Machine-learning
 
+
+## HOTSTAR-DISNEY-PLUS Clone using React JS
+![image](https://user-images.githubusercontent.com/18049731/147722758-d9f295f3-8cd0-4a03-910b-19908292289e.png)
+
+## TESLA website Clone using React JS
+![image](https://user-images.githubusercontent.com/18049731/146549232-954cb504-e957-4427-8aa0-42257a728fc4.png)
+
+## Stack Application using React JS
+![Stack_2](https://user-images.githubusercontent.com/18049731/210068769-d85910a0-6084-40df-9b6b-2c11270b176e.png)
