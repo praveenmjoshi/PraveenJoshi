@@ -6,22 +6,22 @@ I ❤️ JavaScript, React and everything about web developement. Having hands o
 
 Below are the Few of My Favourite works on my github profile.
 
-1. My portfolio website developed using React JS. <br />
+1. My portfolio **website** developed using React JS. <br />
 https://github.com/praveenmjoshi/praveenjoshi_portfolio
 
-2. Github commit hisotry page clone with live data reloading using github APIs, React JS. <br />
-https://github.com/praveenmjoshi/ReactJS-Git-CommitHistory-Clone
-
-3. Hotstar-Disney-Plus Home page Clone using ReactJS. <br />
+2. **Hotstar-Disney-Plus** Home page Clone using ReactJS. <br />
 https://github.com/praveenmjoshi/ReactJS-Favourite-Clones/tree/main/disney-plus-clone
 
-4. Tesla app clone using ReactJS. <br />
+3. **Tesla app** clone using ReactJS. <br />
 https://github.com/praveenmjoshi/ReactJS-Favourite-Clones/tree/main/Tesla%20Clone
 
-5. AWS Lambda functions using NodeJS for file uploads to S3 Bucket. <br />
+4. **Github commit hisotry page clone** with live data reloading using github APIs, React JS. <br />
+https://github.com/praveenmjoshi/ReactJS-Git-CommitHistory-Clone
+
+5. **AWS Lambda** functions using **NodeJS** for file uploads to S3 Bucket. <br />
 https://github.com/praveenmjoshi/NodeJS_AWS_S3_CRUD_API
 
-5. Python and Machine Learning Projects. <br />
+5. Python and **Machine Learning Projects**. <br />
 https://github.com/praveenmjoshi/Machine-learning
 
 
