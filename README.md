@@ -9,7 +9,7 @@ Below are the Few of My Favourite works on my github profile.
 1. My portfolio website developed using React JS. <br />
 https://github.com/praveenmjoshi/praveenjoshi_portfolio
 
-2. Github commit hisotry page clone with live data reloading using github APIs, React JS
+2. Github commit hisotry page clone with live data reloading using github APIs, React JS. <br />
 https://github.com/praveenmjoshi/ReactJS-Git-CommitHistory-Clone
 
 3. Hotstar-Disney-Plus Home page Clone using ReactJS. <br />
@@ -18,7 +18,7 @@ https://github.com/praveenmjoshi/ReactJS-Favourite-Clones/tree/main/disney-plus-
 4. Tesla app clone using ReactJS. <br />
 https://github.com/praveenmjoshi/ReactJS-Favourite-Clones/tree/main/Tesla%20Clone
 
-5. AWS Lambda functions using NodeJS for file uploads to S3 Bucket.
+5. AWS Lambda functions using NodeJS for file uploads to S3 Bucket. <br />
 https://github.com/praveenmjoshi/NodeJS_AWS_S3_CRUD_API
 
 5. Python and Machine Learning Projects. <br />
